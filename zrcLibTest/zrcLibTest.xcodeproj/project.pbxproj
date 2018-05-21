@@ -42,6 +42,7 @@
 		33431C1620B3052000F4BECA = {
 			isa = PBXGroup;
 			children = (
+				33431C3820B30D7A00F4BECA /* Class */,
 				33431C2120B3052000F4BECA /* zrcLibTest */,
 				33431C2020B3052000F4BECA /* Products */,
 			);
@@ -60,8 +61,6 @@
 			children = (
 				33431C2220B3052000F4BECA /* AppDelegate.h */,
 				33431C2320B3052000F4BECA /* AppDelegate.m */,
-				33431C2520B3052000F4BECA /* ViewController.h */,
-				33431C2620B3052000F4BECA /* ViewController.m */,
 				33431C2820B3052000F4BECA /* Main.storyboard */,
 				33431C2B20B3052000F4BECA /* Assets.xcassets */,
 				33431C2D20B3052000F4BECA /* LaunchScreen.storyboard */,
@@ -69,6 +68,15 @@
 				33431C3120B3052000F4BECA /* main.m */,
 			);
 			path = zrcLibTest;
+			sourceTree = "<group>";
+		};
+		33431C3820B30D7A00F4BECA /* Class */ = {
+			isa = PBXGroup;
+			children = (
+				33431C2520B3052000F4BECA /* ViewController.h */,
+				33431C2620B3052000F4BECA /* ViewController.m */,
+			);
+			path = Class;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
